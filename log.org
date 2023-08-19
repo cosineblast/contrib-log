@@ -1,0 +1,29 @@
+#+title: Log
+
+* Logs de desenvolvimento open source
+
+** 2023/08/13
+
+- Implementei uma correção inicial para o bug #1747 do projeto logisim evolution.
+  Parte considerável do tempo foi gasto com a fricção inicial do projeto, como entender o
+  workflow e guidelines de contribuição, instalação da IDE, configuração do projeto gradle, entre outros.
+  Tempo gasto: 4 horas. [[https://github.com/logisim-evolution/logisim-evolution/pull/1824][Link]]
+
+** 2023/08/14
+
+- 08:00 - Apliquei uma modificação de linting requsitada na pull request do dia anterior. Tempo gasto: 15 minutos.
+  [[https://github.com/logisim-evolution/logisim-evolution/pull/1824/commits/30ad0b062c5aeb9cd05bee16be4fd615e51cd61d][Link]]
+
+**  2023/08/18
+
+*** 19:00 às 22:00
+- Comecei a trabalhar em correções das issues #7172 e #6981 do projeto fish-shell.
+- Enviei uma Pull Request sobre o a issue #6981 do projeto. [[https://github.com/fish-shell/fish-shell/pull/9965][Link]]
+- Tempo gasto no total: 3 horas
+
+** 2023/08/19
+
+*** 07:00 às 09:00
+- Comecei a trabalhar na issue #1338 do projeto logisim-evolution.
+- Abri uma pull request corrigindo os problemas descritos na issue. [[https://github.com/logisim-evolution/logisim-evolution/pull/1830][Link]]
+- Tempo gasto: 2 horas
