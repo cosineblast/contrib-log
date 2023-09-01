@@ -1,5 +1,5 @@
 
-* Log de Contribuições do Segundo Semestre de 2023
+#+title: Contribuições do Segundo Semestre de 2023
 
  Este repositório contém um relatório público das atividades open source performadas durante o segundo semestre de 2023,
  por motivo acadêmicos, no arquivo [[file:log.org][log.org]].

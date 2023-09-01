@@ -1,7 +1,5 @@
 #+title: Log
 
-* Logs de desenvolvimento open source
-
 ** 2023/08/13
 
 - Implementei uma correção inicial para o bug #1747 do projeto logisim evolution.
@@ -27,3 +25,21 @@
 - Comecei a trabalhar na issue #1338 do projeto logisim-evolution.
 - Abri uma pull request corrigindo os problemas descritos na issue. [[https://github.com/logisim-evolution/logisim-evolution/pull/1830][Link]]
 - Tempo gasto: 2 horas
+
+** 2023/08/25
+
+*** 20:00 às 22:40
+- Comecei a desenvolver uma solução para a issue #1716 do projeto logisim-evolution. [[https://github.com/logisim-evolution/logisim-evolution/pull/1835][Link]]
+- Tempo gasto: 2 horas e 20 minutos
+
+** 2023/08/26
+
+*** 10:00 às 10:30, 19:00 às 20:00, 23:00 às 23:40
+- Comecei a trabalhar na issue #1510 do projeto logisim-evolution.
+- Tempo gasto: 2 horas e 10 minutos
+
+** 2023/09/01
+
+*** 11:30 ao 12:00
+- Consertei os ajustes requisitados na issue #1835 do logisim evolution. [[https://github.com/logisim-evolution/logisim-evolution/pull/1835][Link]]
+- Tempo gasto: 30 minutos
