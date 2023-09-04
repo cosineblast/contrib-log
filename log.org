@@ -43,3 +43,12 @@
 *** 11:30 ao 12:00
 - Consertei os ajustes requisitados na issue #1835 do logisim evolution. [[https://github.com/logisim-evolution/logisim-evolution/pull/1835][Link]]
 - Tempo gasto: 30 minutos
+
+*** 12:30 às 13:30
+- Continuei a trabalhar na issue #1716 do projeto logisim-evolution. TODO: Link Commit
+
+** 2023/09/04
+
+*** 11:20 - 12:40, 13:00 - 13:50
+- Continuei a trabalhar na issue #1716 do projeto logisim evolution e abri
+  a draft de pull request. [[https://github.com/logisim-evolution/logisim-evolution/pull/1844][Link]]
