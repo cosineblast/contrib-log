@@ -52,3 +52,18 @@
 *** 11:20 - 12:40, 13:00 - 13:50
 - Continuei a trabalhar na issue #1716 do projeto logisim evolution e abri
   a draft de pull request. [[https://github.com/logisim-evolution/logisim-evolution/pull/1844][Link]]
+
+** 2023/09/07
+
+*** 08:40 - 09:40
+- Diagnostiquei e testei o projeto para encontrar os problemas reportados na issue #1841 do projeto
+  logisim-evolution. [[https://github.com/logisim-evolution/logisim-evolution/issues/1841][Link]]
+
+*** 10:00 - 12:00
+- Comecei a implementação do output enable inversível (issue #1716) para o componente de RAM do
+  logisim evolution.
+
+** 2023/09/08
+
+*** 14:30 - 15:00
+- Consertei os erros de encoding da issue #1815 do projeto logisim-evolution.
