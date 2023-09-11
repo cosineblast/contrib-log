@@ -67,3 +67,20 @@
 
 ** 14:30 - 15:00
 - Consertei os erros de encoding da issue #1815 do projeto logisim-evolution.
+
+* 2023/09/10
+
+** 22:30 - 01:00
+- Implementei uma corerção para a issue #1510 do projeto logisim-evolution.[[https://github.com/logisim-evolution/logisim-evolution/pull/1855][ Link]]
+  Tempo gasto: 2 horas e meia.
+
+** 12:00 - 12:15
+- Atualizei as styles changes da minha última pull request
+
+** 15:00 - 15:20
+- Implementei as mudanças requisitadas na última pull request
+
+* 2023/09/11
+
+** 10:00 - 11:00
+- Implementei melhorias de estilo para a classe Value.java do projeto logisim-evolution. [[https://github.com/figurantpp/logisim-evolution/commit/e6a4e5f501197fbb07f5bb1505835734f0][Link]]
