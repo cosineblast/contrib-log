@@ -84,3 +84,22 @@
 
 ** 10:00 - 11:05
 - Implementei melhorias de estilo para a classe Value.java do projeto logisim-evolution. [[https://github.com/figurantpp/logisim-evolution/commit/e6a4e5f501197fbb07f5bb1505835734f0][Link]]
+
+* 2023/09/12
+
+- Implementei as mudanças de nome requisitadas na pull request de RAM enable.
+  Tempo gasto: 1 hora.
+  TODO: Add link e horário
+
+* 2023/09/13
+** 18:00 - 19:00
+- Ajustei os problemas de lint vindos da ultima pull request.
+- Comecei a implementar javadocs para a classe Value do logisim-evolution.
+- Tempo gasto: 1 hora.
+
+* 2023/09/16
+** 18:00 - 18:15
+- "Terminei" a pull request 1863
+
+** 18:15 - 19:15
+- Comecei a estudar VHDL para conseguir melhorar a pull reuqest de cabos na RAM.
