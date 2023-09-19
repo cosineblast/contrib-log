@@ -117,3 +117,9 @@ Tempo gasto: 30 minutos.
 ** 18:15 - 19:15
 - Comecei a estudar o VHDL no logisim-evolution para conseguir melhorar a pull reuqest de cabos na RAM.
   Tempo gasto: 1 hora.
+
+* 2023/09/19
+** 16:00 - 18:00
+- Comecei a depurar o projeto para implementar um fix para a issue [[https://github.com/clj-kondo/clj-kondo/issues/2013][#2013]] do projeto clj-kondo.
+- Comtinuei a documentar o package logisim.data do projeto logisim-evolution.
+  Tempo gasto: 2 horas.
