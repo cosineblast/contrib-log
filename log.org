@@ -5,7 +5,9 @@
 - Implementei uma correção inicial para o bug #1747 do projeto logisim evolution.
   Parte considerável do tempo foi gasto com a fricção inicial do projeto, como entender o
   workflow e guidelines de contribuição, instalação da IDE, configuração do projeto gradle, entre outros.
-  Tempo gasto: 4 horas. [[https://github.com/logisim-evolution/logisim-evolution/pull/1824][Link]]
+  Tempo gasto: 4 horas.
+  [[https://github.com/logisim-evolution/logisim-evolution/pull/1824][Link]]
+
 
 * 2023/08/14
 
@@ -19,55 +21,55 @@
 ** 19:00 às 22:00
 - Comecei a trabalhar em correções das issues #7172 e #6981 do projeto fish-shell.
 - Enviei uma Pull Request sobre o a issue #6981 do projeto. [[https://github.com/fish-shell/fish-shell/pull/9965][Link]]
-  Tempo gasto: 3 horas
+  Tempo gasto: 3 horas.
 
 * 2023/08/19
 
 ** 07:00 às 09:00
 - Comecei a trabalhar na issue #1338 do projeto logisim-evolution.
 - Abri uma pull request corrigindo os problemas descritos na issue. [[https://github.com/logisim-evolution/logisim-evolution/pull/1830][Link]]
-Tempo gasto: 2 horas
+Tempo gasto: 2 horas.
 
 * 2023/08/25
 
 ** 20:00 às 22:40
 - Comecei a desenvolver uma solução para a issue #1716 do projeto logisim-evolution. [[https://github.com/logisim-evolution/logisim-evolution/pull/1835][Link]]
-Tempo gasto: 2 horas e 20 minutos
+Tempo gasto: 2 horas e 20 minutos.
 
 * 2023/08/26
 
 ** 10:00 às 10:30, 19:00 às 20:00, 23:00 às 23:40
 - Comecei a trabalhar na issue #1510 do projeto logisim-evolution.
-Tempo gasto: 2 horas e 10 minutos
+Tempo gasto: 2 horas e 10 minutos.
 
 * 2023/09/01
 
 ** 11:30 ao 12:00
 - Consertei os ajustes requisitados na issue #1835 do logisim evolution. [[https://github.com/logisim-evolution/logisim-evolution/pull/1835][Link]]
-Tempo gasto: 30 minutos
+Tempo gasto: 30 minutos.
 
 ** 12:30 às 13:30
 - Continuei a trabalhar na issue #1716 do projeto logisim-evolution. TODO: Link Commit
-  Tempo gasto: 1 hora
+  Tempo gasto: 1 hora.
 
 * 2023/09/04
 
 ** 11:20 - 12:40, 13:00 - 13:50
 - Continuei a trabalhar na issue #1716 do projeto logisim evolution e abri
   a draft de pull request. [[https://github.com/logisim-evolution/logisim-evolution/pull/1844][Link]]
-  Tempo gasto: 2 horas e 10 minutos
+  Tempo gasto: 2 horas e 10 minutos.
 
 * 2023/09/07
 
 ** 08:40 - 09:40
 - Diagnostiquei e testei o projeto para encontrar os problemas reportados na issue #1841 do projeto
   logisim-evolution. [[https://github.com/logisim-evolution/logisim-evolution/issues/1841][Link]]
-  Tempo gasto: 1 hora
+  Tempo gasto: 1 hora.
 
 ** 10:00 - 12:00
 - Comecei a implementação do output enable inversível (issue #1716) para o componente de RAM do
   logisim evolution.
-  Tempo gasto: 2 horas
+  Tempo gasto: 2 horas.
 
 * 2023/09/08
 
@@ -79,21 +81,21 @@ Tempo gasto: 30 minutos
 
 ** 22:30 - 01:00
 - Implementei uma corerção para a issue #1510 do projeto logisim-evolution.[[https://github.com/logisim-evolution/logisim-evolution/pull/1855][ Link]]
-  Tempo gasto: 2 horas e meia.
+  Tempo gasto: 2 horas e 30 minutos.
 
 ** 12:00 - 12:15
 - Atualizei as styles changes da minha última pull request
-  Tempo gasto: 15 minutos
+  Tempo gasto: 15 minutos.
 
 ** 15:00 - 15:20
 - Implementei as mudanças requisitadas na última pull request
-  Tempo gasto: 20 minutos
+  Tempo gasto: 20 minutos.
 
 * 2023/09/11
 
 ** 10:00 - 11:05
 - Implementei melhorias de estilo para a classe Value.java do projeto logisim-evolution. [[https://github.com/figurantpp/logisim-evolution/commit/e6a4e5f501197fbb07f5bb1505835734f0][Link]]
-  Tempo gasto: 1 hora e 5 minutos
+  Tempo gasto: 1 hora e 5 minutos.
 
 * 2023/09/12
 
@@ -110,7 +112,7 @@ Tempo gasto: 30 minutos
 * 2023/09/16
 ** 18:00 - 18:15
 - Terminei de ajustar e enviei a pull request 1863
-  Tempo gasto: 15 minutos
+  Tempo gasto: 15 minutos.
 
 ** 18:15 - 19:15
 - Comecei a estudar o VHDL no logisim-evolution para conseguir melhorar a pull reuqest de cabos na RAM.
