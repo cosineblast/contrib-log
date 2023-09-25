@@ -128,3 +128,15 @@ Tempo gasto: 30 minutos.
 ** 17:00 - 19:00
 - Implementei modificações de javadoc como requisitado na pull request [[https://github.com/logisim-evolution/logisim-evolution/pull/1863][#1863]] do logisim-evolution.
   Tempo gasto: 2 horas.
+
+* 2023/09/22
+
+** 10:30 - 13:00
+- Melhorei a documentação de javadoc das classes Value.java e TestVector.java da pull request 1863 do projeto logisim-evolution.
+  Tempo gasto: 2 horas e 30 minutos.
+
+* 2023/09/23
+** 21:40 - 22:00
+- Terminei de documentar as clases TestVector e Value do logisim evolution
+- Comecei a documentação a classe ~Attributes~ do projeto logisim evolution.
+  Tempo gasto: 1 hora e 20 minutos.
