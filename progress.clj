@@ -28,18 +28,28 @@
        (double)))
 
 (def semester-start-date "2023-08-07")
+(def semester-end-date "2023-12-08")
+
+(defn date-diff [start end]
+
+  (.toDays (Duration/between
+            (.atStartOfDay start)
+            (.atStartOfDay end))))
+
+(def semester-size
+  (let [start (LocalDate/parse semester-start-date)
+        end (LocalDate/parse semester-end-date)]
+    (date-diff start end)))
+
+(println "Semester size: " semester-size)
 
 (defn get-days-since-semester-start []
   (let [start (LocalDate/parse semester-start-date)
         now (LocalDate/now)]
 
     (println "Today is " (.toString now))
+    (date-diff start now)))
 
-    (.toDays (Duration/between
-              (.atStartOfDay start)
-              (.atStartOfDay now)))))
-
-(def semester-size 136)
 
 (defn get-hours-status []
 
