@@ -140,3 +140,37 @@ Tempo gasto: 30 minutos.
 - Terminei de documentar as clases TestVector e Value do logisim evolution
 - Comecei a documentação a classe ~Attributes~ do projeto logisim evolution.
   Tempo gasto: 1 hora e 20 minutos.
+
+* 2023/09/27
+** 16:00 - 18:00
+- Terminei a onda inicial de documentaççao da classe Attributes.
+- Comecei da documentar a classe Attribute.
+  Tempo gasto: 2 horas.
+
+* 2023/10/02
+** 09:00 - 10:30
+- Terminei de documentar a classe Attributes.
+- Comecei a documentar a interface AttributeSet e Attribute.
+  Tempo gasto: 1 hora e 30 minutos.
+
+** 13:00 - 14:00
+- Continuei a documentação da classe Attribute, procurando o comportamento
+  de certas partes da API.
+  Tempo gasto: 1 hora.
+
+* 23:00 - 00:40
+- Continuei a documentar a interface AttributeSet do logisim evolution.
+  Aprendi que documentar interfaces, pode ser muito mais demorado que documentar classes,
+  especialmente porque se deve olhar diversas implementações da interface e conseguir traçar
+  os comportamentos em comum e variados para descobrir quais contratos são enforçados pela API da
+  interface.
+  Tempo gasto: 1 hora e 40 minutos.
+
+* 2023/10/09
+** 13:30 - 15:00
+- Continuei a documentação da classe AttributeSet, especialmente em relação aos contratos dos atributos read only desta interface.
+  Tempo gasto: 1 hora e 30 minutos.
+* 2023/10/10
+** 19:30 - 20:00, 21:30 - 22:00
+- Teminada a documentação da interface AttributeSet
+  Tempo gasto: 1 hora.
