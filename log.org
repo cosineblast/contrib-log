@@ -170,7 +170,19 @@ Tempo gasto: 30 minutos.
 ** 13:30 - 15:00
 - Continuei a documentação da classe AttributeSet, especialmente em relação aos contratos dos atributos read only desta interface.
   Tempo gasto: 1 hora e 30 minutos.
+
 * 2023/10/10
 ** 19:30 - 20:00, 21:30 - 22:00
 - Teminada a documentação da interface AttributeSet
   Tempo gasto: 1 hora.
+
+* 2023/10/18
+** 22:30 - 23:00
+Comecei a documentar a classe Location do projeto logisim evolution.
+A maior parte do tempo foi gasto documentando o comportamento da função parse do projeto.
+Tempo gasto: 30 minutos.
+
+* 2023/10/19
+** 09:30 - 11:00
+Continuei a investigação da issue #2013 do clj-kondo.
+Tempo gasto: 1 hora e 30 minutos.
