@@ -186,3 +186,10 @@ Tempo gasto: 30 minutos.
 ** 09:30 - 11:00
 Continuei a investigação da issue #2013 do clj-kondo.
 Tempo gasto: 1 hora e 30 minutos.
+
+* 2023/10/20
+** 17:00 - 19:00
+- Terminei o debugging da issue #2013 do clj-kondo.
+- Consegui determinar mais casos que causam o problema da issue.
+- Implementei uma solução para a issue
+  Tempo gasto: 2 horas
