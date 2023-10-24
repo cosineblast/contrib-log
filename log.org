@@ -193,3 +193,19 @@ Tempo gasto: 1 hora e 30 minutos.
 - Consegui determinar mais casos que causam o problema da issue.
 - Implementei uma solução para a issue
   Tempo gasto: 2 horas
+
+* 2023/10/22
+** 06:20 - 07:20
+- Comecei a estudar o modelo de teste do clj-kondo para implementar os testes para
+  o fix implementado no dia anterior.
+  Tempo gasto: 1 hora
+
+* 2023/10/23
+** 12:00 - 12:40
+- Implementei os testes para o fix implementado.
+  Tempo gasto: 40 minutos
+
+* 2023/10/24
+** 17:20 - 17:40
+- Implementei as modificações requisitadas na pull request anterior.
+  Tempo gasto: 20 minutos.
