@@ -209,3 +209,15 @@ Tempo gasto: 1 hora e 30 minutos.
 ** 17:20 - 17:40
 - Implementei as modificações requisitadas na pull request anterior.
   Tempo gasto: 20 minutos.
+
+* 2023/10/27
+** 10:30 - 11:00
+- Continuei a documentação da classe Location do logism evolution.
+  Tempo gasto: 30 minutos
+
+* 2023/10/28
+** 10:00 - 12:00
+- Terminei de documentar a classe Location do logisim evolution.
+  Parte considerável do tempo foi gasto documentando os métodos `rotate` e `translate`
+  que tem comportamentos geométricos não muito óbvios, e requerem documentação boa.
+  Tempog gasto: 2 horas.
