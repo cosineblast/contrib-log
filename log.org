@@ -221,3 +221,10 @@ Tempo gasto: 1 hora e 30 minutos.
   Parte considerável do tempo foi gasto documentando os métodos `rotate` e `translate`
   que tem comportamentos geométricos não muito óbvios, e requerem documentação boa.
   Tempog gasto: 2 horas.
+
+** 22:30 - 00:00
+- Documentei as classes ~AttributeDefaultProvider~,
+  ~AttributeEvent~, ~AttributeListener~, ~AttributeOption~, ~AttributeOptionInterface~
+  do logisim evolution
+
+  Tempo gasto: 1 hora e 30 minutos.
