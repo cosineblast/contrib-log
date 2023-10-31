@@ -228,3 +228,17 @@ Tempo gasto: 1 hora e 30 minutos.
   do logisim evolution
 
   Tempo gasto: 1 hora e 30 minutos.
+
+* 2023/10/29
+** 10:30 - 13:00
+- Removi redundâncias em relação aos campos ~@return~ dos javadocs dos getters.
+- Documentei as classes ~Direction~, ~FailException~, ~TestException~
+  ~Direction~, ~BitWidth~ do projeto.
+  Tempo gasto: 2 horas e 30 minutos.
+
+* 2023/10/30
+** 20:00 - 21:30
+- Melhorei a documentação do método ~rotate~
+- Comecei a documentar a classe ~Bounds~, também precisando de explicações detalhadas para operações
+  gemétricas.
+  Tempo gasto: 1 hora e 30 minutos
