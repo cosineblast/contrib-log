@@ -242,3 +242,7 @@ Tempo gasto: 1 hora e 30 minutos.
 - Comecei a documentar a classe ~Bounds~, também precisando de explicações detalhadas para operações
   gemétricas.
   Tempo gasto: 1 hora e 30 minutos
+
+* 2023/10/31
+** 18:20 - 19:20
+- Continuei a documentação da classe ~Bounds~ do projeto.
