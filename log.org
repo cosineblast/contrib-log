@@ -246,3 +246,25 @@ Tempo gasto: 1 hora e 30 minutos.
 * 2023/10/31
 ** 18:20 - 19:20
 - Continuei a documentação da classe ~Bounds~ do projeto.
+  Tempo gasto: 1 hora.
+
+* 2023/11/1
+** 19:00 - 20:00
+- Continuei a documentação da a classe ~Bounds~ do projeto.
+  Com esta terminada, faltará documentar a classe ~AbstractAttributeSet~
+  Tempo gasto: 1 hora.
+
+* 2023/11/2
+** 19:40 - 20:50
+- Terminei de documentar a classe ~Bounds~ e ~AbstractAttributeSet~ do projeto
+  Tempo gasto: 1 hora e 10 minutos.
+
+** 21:00 - 21:40
+- Refatorações (style lint da pull request) e revisão da documentação implementada
+  Tempo gasto: 40 minutos.
+
+** 21:40 - 22:20
+- Montei uma lista de problemas no código que documentei na pull request, e removi
+  certos TODOs que eu tinha deixado no código.
+  A pull request está agora aberta para merge.
+  Tempo gasto: 40 minutos.
