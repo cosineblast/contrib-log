@@ -268,3 +268,12 @@ Tempo gasto: 1 hora e 30 minutos.
   certos TODOs que eu tinha deixado no código.
   A pull request está agora aberta para merge.
   Tempo gasto: 40 minutos.
+
+* 2023/11/3
+** 14:00 - 15:00
+- Ajudei a adicionar a guia academics do site do flusp com o João Paulo
+  Tempo gasto: 1 hora.
+
+** 21:00 - 23:00
+- Corrigi a issue [[https://github.com/clj-kondo/clj-kondo/issues/1753][#1753]] do projeto clj-kondo.
+  Tempo gasto: 2 horas.
