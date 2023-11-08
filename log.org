@@ -287,3 +287,9 @@ Tempo gasto: 1 hora e 30 minutos.
 ** 11:00 - 11:30, 13:20 - 14:20
 - Continuei a investigação da issue do projeto, encontrei o problema relatei na issue.
   Tempo gasto: 1 hora e 30 minutos.
+
+* 2023/11/7
+** 19:30 - 20:20, 20:40 - 21:25
+- Implementei uma melhoria de documentação para a issue #10175 do nushell.
+  [[https://github.com/nushell/nushell.github.io/pull/1137][Link]]
+  Tempo gasto: 1 hora e 35 minutos.
