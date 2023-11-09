@@ -293,3 +293,13 @@ Tempo gasto: 1 hora e 30 minutos.
 - Implementei uma melhoria de documentação para a issue #10175 do nushell.
   [[https://github.com/nushell/nushell.github.io/pull/1137][Link]]
   Tempo gasto: 1 hora e 35 minutos.
+
+* 2023/11/8
+** 18:40 - 19:00, 19:15 - 19:35
+- Implementei as modificações requisitadas da ultima pull request do clj-kondo.
+- Implementei as modifiações requisitadas da ultima pull request da documentação do nushell.
+  Tempo gasto: 40 minutos.
+
+** 19:40 - 20:30
+- something idk
+  Tempo gasto: 20 minutos.
