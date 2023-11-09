@@ -301,5 +301,5 @@ Tempo gasto: 1 hora e 30 minutos.
   Tempo gasto: 40 minutos.
 
 ** 19:40 - 20:30
-- something idk
-  Tempo gasto: 20 minutos.
+- New PR
+  Tempo gasto: 50 minutos.
