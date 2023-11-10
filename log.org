@@ -301,5 +301,10 @@ Tempo gasto: 1 hora e 30 minutos.
   Tempo gasto: 40 minutos.
 
 ** 19:40 - 20:30
-- New PR
+- Comecei a trabalhar na issue 7189 do projeto nushell.
   Tempo gasto: 50 minutos.
+
+** 20:40 - 21:40
+- Implementei a documentação da última pull request do clj-kondo
+  Continuei a issue 7189 do projeto nushell.
+  Tempo gasto: 1 hora.
