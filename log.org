@@ -317,3 +317,8 @@ Tempo gasto: 1 hora e 30 minutos.
 ** 14:00 - 15:00
 Continuei o trabalho na ultima PR do nushell
 Tempo gasto: 1 hora.
+
+* 2023/11/17
+** 20:30 - 21:30
+Continuei o trabalho na PR do nushell
+Tempo gasto: 1 hora.
