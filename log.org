@@ -327,3 +327,17 @@ Tempo gasto: 1 hora.
 ** 07:15 - 08:15
 Continuei o trabalho na ultima PR do nushell.
 Tempo gasto: 1 hora.
+
+* 2023/11/21
+** 20:00 - 21:00
+Continuei o trabalho na ultima PR do nushell.
+Tempo gasto: 1 hora.
+
+* 2023/11/28
+** 20:00 - 20:30, 22:00 - 23:00
+Terminei a PR do nushell.
+Em geral, as últimas sessões andam demorando consideravelmente pelo
+tempo de build do projeto, agravados pelo tempo alto de build do
+projeto, agravado pelo fato de eu remover as pastas target (builds de compilação) do nushell,
+uma vez que elas ocupam *32GB* no meu sistema.
+Tempo gasto: 1 hora.
