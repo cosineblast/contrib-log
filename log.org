@@ -340,4 +340,52 @@ Em geral, as últimas sessões andam demorando consideravelmente pelo
 tempo de build do projeto, agravados pelo tempo alto de build do
 projeto, agravado pelo fato de eu remover as pastas target (builds de compilação) do nushell,
 uma vez que elas ocupam *32GB* no meu sistema.
-Tempo gasto: 1 hora.
+Tempo gasto: 1 hora e 30 minutos.
+
+* 2023/11/29
+** 08:00 - 10:20, 17:00 - 18:00
+- Ajustei pedidos requisitados na última PR.
+  Tempo gasto: 3 hora e 20 minutos
+
+* 2023/12/1
+** 17:30 - 20:30
+- Comecei a trabalhar na issue [[https://github.com/nushell/nushell/issues/11040][#11040]] do nushell,
+  lendo o código fonte do ~du~ do nushell, uutils e (tentando)
+  ler o código fonte do ~du~ da gnu coreutils.
+  Tempo gasto: 3 horas.
+
+* 2023/12/2
+** 22:35 - 01:00
+- Continuei a anaálise do ~du~ da GNU coreutils.
+  Tempo gasto: 2 horas e 25 minutos.
+
+* 2023/12/3
+** 11:10 - 12:15
+- Terminei a análise do ~du~ da GNU coreutils (e fiz certas comparações com o da uutils).
+- Comecei a análise do ~du~ do busybox (e percebi que provavelmente deveria ter começado com esta, já
+  que é a mais simples e deixa as syscalls mais simples)
+
+** 00:00 - 01:25
+- Fiz uma instalação de windows e ferramente windows para
+  experimentar com a parte de ~du~ deste OS (por wsl2 e windirstat), mas não tive grande
+  sucesso por conta de problemas com instalação.
+  Não tentarei mais tentar dar suporte a issues em outros OSes.
+  Tempo gasto: 2 horas e 25 minutos.
+
+* 2023/12/4
+** 19:00 - 21:00
+Terminei em geral a  análise das implementações de du (e o fs::metadata da standard library de rust)
+Terminando de analisar estes, conclui que o comportamento para requisições da uutils é identico ao da gnu coreutils,
+mas que difere um pouco em relação ao da busybox, e que o ideal para o nushell é seguir com a opção 1 apresentada:
+modificar o código existente do nushell, ao invés de tentar fazer o uutils funcionar num modelo funcional, já que
+a saída do uutils é majoritariamente baseada no stdout. Entretanto, não consegui pinar o motivo de diferença
+drástica de resposta do `du` nushell em relação ao da coreutils, já que ambos usam o  `std::fs::metadata` de rust, que
+usa a syscall `statx` do linux (o busybox usa lstat, talvez seja parte do motivo para a diferença?)
+Tempo gasto: 2 horas.
+
+* 2023/12/5
+** 23:00 - 01:00
+Percebi que é melhor por enquanto consertar a implementação existente de du do nushell, para deixar mais consistente
+com a de busybox, comecei a implementar isso no du do projeto.
+Agora du em pasta vazias devolve ~apparent-size~ zero.
+Tempo gasto: 2 horas.
