@@ -59,6 +59,9 @@
         days-percent (double (/ days semester-size))
         hours-as-days (* hours-percent semester-size)
         days-late (- days hours-as-days)]
+
+    (println (format "Hours done: %f" hours))
+    (println (format "Remaining days: %d" (- semester-size days)))
     (println (format "Hours percent: %.4f" hours-percent))
     (println (format "Days percent: %.4f" days-percent))
     (println (format "Late by %.2f days" days-late))))

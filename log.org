@@ -389,3 +389,12 @@ Percebi que é melhor por enquanto consertar a implementação existente de du d
 com a de busybox, comecei a implementar isso no du do projeto.
 Agora du em pasta vazias devolve ~apparent-size~ zero.
 Tempo gasto: 2 horas.
+
+* 2023/12/6
+** 18:30 - 19:00 - 19:30 - 20:00
+Resumi os problemas de incluir o código fonte de `du-uu` no projeto nushell, e continuei a programação
+da melhora do comportamento.
+** 23:00 - 00:00
+
+Começei a trabalhar na issue [[https://github.com/clj-kondo/clj-kondo/issues/1303][#1303]] do clj-kondo
+Tempo gasto: 2 horas.
