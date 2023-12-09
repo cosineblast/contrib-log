@@ -398,3 +398,8 @@ da melhora do comportamento.
 
 Começei a trabalhar na issue [[https://github.com/clj-kondo/clj-kondo/issues/1303][#1303]] do clj-kondo
 Tempo gasto: 2 horas.
+
+* 2023/12/9
+** 10:00 - 13:00, 14:00 - 15:20
+Continuei o trabalhar na issue [[https://github.com/clj-kondo/clj-kondo/issues/1303][#1303]] do clj-kondo
+Tempo gasto: 4 horas e 20 minutos.
